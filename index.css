@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    border: 0px;
+}
+
+.lol {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    align-content: center;
+}
